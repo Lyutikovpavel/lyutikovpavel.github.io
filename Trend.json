@@ -1,11 +1,10 @@
-{
-    "posts": [
-        {
+[   
+      {
         "id": 1,
         "author": "petya",
         "imageUrl": "https://million-wallpapers.ru/pejzazhi-343-android/priroda-5-21572.html"
         },
-        {
+      {
         "id": 2,
         "author": "lyda",
         "imageUrl": "http://asiavoice.ru/uploads/objects/PZrZo4a9stOxGaupMJm1Khdqw8y5NnoK.jpg"
@@ -30,6 +29,4 @@
         "author": "zina",
         "imageUrl": "https://img4.goodfon.ru/wallpaper/nbig/0/be/more-bereg-zakat-4.jpg"
         }
-
     ]
-}
