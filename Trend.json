@@ -1,4 +1,4 @@
-[ 
+{      "results":[
         {
         "id": 1,
         "author": "petya",
@@ -29,4 +29,5 @@
         "author": "zina",
         "imageUrl": "https://img4.goodfon.ru/wallpaper/nbig/0/be/more-bereg-zakat-4.jpg"
         }
-]
+        ]
+}
