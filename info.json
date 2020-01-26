@@ -1,35 +1,6 @@
-{
-    "posts": [
+[
         {
-        "id": 1,
-        "author": "petya",
-        "imageUrl": "https://million-wallpapers.ru/pejzazhi-343-android/priroda-5-21572.html"
-        },
-        {
-        "id": 2,
-        "author": "lyda",
-        "imageUrl": "http://asiavoice.ru/uploads/objects/PZrZo4a9stOxGaupMJm1Khdqw8y5NnoK.jpg"
-        },  
-        {
-        "id": 3,
-        "author": "nyra",
-        "imageUrl": "https://img-fotki.yandex.ru/get/15599/313746952.2/0_11aa04_f4d5f35_X5L.jpg"
-        },  
-        {
-        "id": 4,
-        "author": "nina",
-        "imageUrl": "https://4.bp.blogspot.com/-NEsuFLXaQBs/WPrLW9PxxVI/AAAAAAABqWU/9-Bp-irjoRcuUrKFABzNX_CW89Obef1FACLcB/w1120/Balangan%2BBeach%2Bin%2BBali%252C%2BIndonesia.jpg"
-        },
-        {
-        "id": 5,
-        "author": "oxana",
-        "imageUrl": "https://top10a.ru/wp-content/uploads/2018/08/8-uajtxeven-whitehaven-ostrov-uajtsandej-avstraliya.jpg"
-        },
-        {
-        "id": 6,
-        "author": "zina",
-        "imageUrl": "https://img4.goodfon.ru/wallpaper/nbig/0/be/more-bereg-zakat-4.jpg"
+        "inf": "Не полный текс",
+        "info": "Полный текст"
         }
-
-    ]
-}
+]
