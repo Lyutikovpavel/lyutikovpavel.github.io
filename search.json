@@ -1,35 +1,123 @@
-{
-    "posts": [
+[
         {
-        "id": 1,
+        "name": "name1",
         "author": "petya",
-        "imageUrl": "https://million-wallpapers.ru/pejzazhi-343-android/priroda-5-21572.html"
+        "imgUrl": "https://million-wallpapers.ru/pejzazhi-343-android/priroda-5-21572.html"
         },
         {
-        "id": 2,
+        "name": "name2",
         "author": "lyda",
-        "imageUrl": "http://asiavoice.ru/uploads/objects/PZrZo4a9stOxGaupMJm1Khdqw8y5NnoK.jpg"
+        "imgUrl": "http://asiavoice.ru/uploads/objects/PZrZo4a9stOxGaupMJm1Khdqw8y5NnoK.jpg"
         },  
         {
-        "id": 3,
+        "name": "name3",
         "author": "nyra",
-        "imageUrl": "https://img-fotki.yandex.ru/get/15599/313746952.2/0_11aa04_f4d5f35_X5L.jpg"
+        "imgUrl": "https://img-fotki.yandex.ru/get/15599/313746952.2/0_11aa04_f4d5f35_X5L.jpg"
         },  
         {
-        "id": 4,
+        "name": "name4",
         "author": "nina",
-        "imageUrl": "https://4.bp.blogspot.com/-NEsuFLXaQBs/WPrLW9PxxVI/AAAAAAABqWU/9-Bp-irjoRcuUrKFABzNX_CW89Obef1FACLcB/w1120/Balangan%2BBeach%2Bin%2BBali%252C%2BIndonesia.jpg"
+        "imgUrl": "https://4.bp.blogspot.com/-NEsuFLXaQBs/WPrLW9PxxVI/AAAAAAABqWU/9-Bp-irjoRcuUrKFABzNX_CW89Obef1FACLcB/w1120/Balangan%2BBeach%2Bin%2BBali%252C%2BIndonesia.jpg"
         },
         {
-        "id": 5,
+        "name": "name5",
         "author": "oxana",
-        "imageUrl": "https://top10a.ru/wp-content/uploads/2018/08/8-uajtxeven-whitehaven-ostrov-uajtsandej-avstraliya.jpg"
+        "imgUrl": "https://top10a.ru/wp-content/uploads/2018/08/8-uajtxeven-whitehaven-ostrov-uajtsandej-avstraliya.jpg"
         },
         {
-        "id": 6,
+        "name": "name6",
         "author": "zina",
-        "imageUrl": "https://img4.goodfon.ru/wallpaper/nbig/0/be/more-bereg-zakat-4.jpg"
+        "imgUrl": "https://img4.goodfon.ru/wallpaper/nbig/0/be/more-bereg-zakat-4.jpg"
+        },
+        {
+        "name": "name7",
+        "author": "petya",
+        "imgUrl": "https://million-wallpapers.ru/pejzazhi-343-android/priroda-5-21572.html"
+        },
+        {
+        "name": "name8",
+        "author": "lyda",
+        "imgUrl": "http://asiavoice.ru/uploads/objects/PZrZo4a9stOxGaupMJm1Khdqw8y5NnoK.jpg"
+        },  
+        {
+        "name": "name9",
+        "author": "nyra",
+        "imgUrl": "https://img-fotki.yandex.ru/get/15599/313746952.2/0_11aa04_f4d5f35_X5L.jpg"
+        },  
+        {
+        "name": "name10",
+        "author": "nina",
+        "imgUrl": "https://4.bp.blogspot.com/-NEsuFLXaQBs/WPrLW9PxxVI/AAAAAAABqWU/9-Bp-irjoRcuUrKFABzNX_CW89Obef1FACLcB/w1120/Balangan%2BBeach%2Bin%2BBali%252C%2BIndonesia.jpg"
+        },
+        {
+        "name": "name11",
+        "author": "oxana",
+        "imgUrl": "https://top10a.ru/wp-content/uploads/2018/08/8-uajtxeven-whitehaven-ostrov-uajtsandej-avstraliya.jpg"
+        },
+        {
+        "name": "name12",
+        "author": "zina",
+        "imgUrl": "https://img4.goodfon.ru/wallpaper/nbig/0/be/more-bereg-zakat-4.jpg"
+        },
+        {
+        "name": "name13",
+        "author": "petya",
+        "imgUrl": "https://million-wallpapers.ru/pejzazhi-343-android/priroda-5-21572.html"
+        },
+        {
+        "name": "name14",
+        "author": "lyda",
+        "imgUrl": "http://asiavoice.ru/uploads/objects/PZrZo4a9stOxGaupMJm1Khdqw8y5NnoK.jpg"
+        },  
+        {
+        "name": "name15",
+        "author": "nyra",
+        "imgUrl": "https://img-fotki.yandex.ru/get/15599/313746952.2/0_11aa04_f4d5f35_X5L.jpg"
+        },  
+        {
+        "name": "name16",
+        "author": "nina",
+        "imgUrl": "https://4.bp.blogspot.com/-NEsuFLXaQBs/WPrLW9PxxVI/AAAAAAABqWU/9-Bp-irjoRcuUrKFABzNX_CW89Obef1FACLcB/w1120/Balangan%2BBeach%2Bin%2BBali%252C%2BIndonesia.jpg"
+        },
+        {
+        "name": "name17",
+        "author": "oxana",
+        "imgUrl": "https://top10a.ru/wp-content/uploads/2018/08/8-uajtxeven-whitehaven-ostrov-uajtsandej-avstraliya.jpg"
+        },
+        {
+        "name": "name18",
+        "author": "zina",
+        "imgUrl": "https://img4.goodfon.ru/wallpaper/nbig/0/be/more-bereg-zakat-4.jpg"
+        },
+        {
+        "name": "name19",
+        "author": "petya",
+        "imgUrl": "https://million-wallpapers.ru/pejzazhi-343-android/priroda-5-21572.html"
+        },
+        {
+        "name": "name20",
+        "author": "lyda",
+        "imgUrl": "http://asiavoice.ru/uploads/objects/PZrZo4a9stOxGaupMJm1Khdqw8y5NnoK.jpg"
+        },  
+        {
+        "name": "name21",
+        "author": "nyra",
+        "imgUrl": "https://img-fotki.yandex.ru/get/15599/313746952.2/0_11aa04_f4d5f35_X5L.jpg"
+        },  
+        {
+        "name": "name22",
+        "author": "nina",
+        "imgUrl": "https://4.bp.blogspot.com/-NEsuFLXaQBs/WPrLW9PxxVI/AAAAAAABqWU/9-Bp-irjoRcuUrKFABzNX_CW89Obef1FACLcB/w1120/Balangan%2BBeach%2Bin%2BBali%252C%2BIndonesia.jpg"
+        },
+        {
+        "name": "name23",
+        "author": "oxana",
+        "imgUrl": "https://top10a.ru/wp-content/uploads/2018/08/8-uajtxeven-whitehaven-ostrov-uajtsandej-avstraliya.jpg"
+        },
+        {
+        "name": "name24",
+        "author": "zina",
+        "imgUrl": "https://img4.goodfon.ru/wallpaper/nbig/0/be/more-bereg-zakat-4.jpg"
         }
 
-    ]
-}
+]
