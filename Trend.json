@@ -1,32 +1,32 @@
 [
         {
         "id": 1,
-        "author": "петух",
+        "author": "Автор: oxana",
         "imageUrl": "https://i.pinimg.com/736x/b8/19/d8/b819d87438c4b8802070b3ac036a879d--alberta-canada-jasper-alberta.jpg"
         },
         {
         "id": 2,
-        "author": "lyda",
+        "author": "Автор: lyda",
         "imageUrl": "https://avatars.mds.yandex.net/get-pdb/1340225/62d82e5d-6a80-4dc4-b738-74cd62b7d641/s1200"
         },  
         {
         "id": 3,
-        "author": "nyra",
+        "author": "Автор: nyra",
         "imageUrl": "https://avatars.mds.yandex.net/get-pdb/1971695/fce50f4f-e89c-4eac-9802-d186f5d3a191/s1200"
         },  
         {
         "id": 4,
-        "author": "nina",
+        "author": "Автор: nina",
         "imageUrl": "https://doseng.org/uploads/posts/2014-10/1412220516_1-19.jpg"
         },
         {
         "id": 5,
-        "author": "oxana",
+        "author": "Автор: oxana",
         "imageUrl": "https://zvetnoe.ru/upload/catalog/2019/10/KH0372.jpg"
         },
         {
         "id": 6,
-        "author": "zina",
+        "author": "Автор: zina",
         "imageUrl": "https://avatars.mds.yandex.net/get-pdb/1751508/15fc1631-1fcb-48a3-a76c-a08a25c20bd3/s1200"
         }
 ]
