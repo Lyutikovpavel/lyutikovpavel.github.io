@@ -1,4 +1,5 @@
-[       {
+[       
+        {
         "id": 39,
         "name": "Косметика",
         "author": "Автор: @staviiile",
@@ -39,7 +40,7 @@
         "author": "Автор: @olgaagapitova",
         "imgUrl": "https://rocld.com/ga3d1",
         "istok": "Источник: Instagram"
-        }
+        },
         {
         "id": 33,
         "name": "Доброе утро",
