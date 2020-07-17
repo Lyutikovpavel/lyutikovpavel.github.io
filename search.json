@@ -1,26 +1,12 @@
 [     
         { 
-        "id": 4,
+        "id": 2,
         "name": "Зима",        
         "author": "@staviiile",
         "imgUrl": "https://rocld.com/ga8a6",
         "istok": "Instagram"
          },
-        
-        {
-        "id": 3,
-        "name": "Собака",        
-        "author": "@annaorni",
-        "imgUrl": "https://rocld.com/ga6qm",
-        "istok": "Instagram"
-        },
-        {
-        "id": 2,
-        "name": "Собака",        
-        "author": "@arino_a",
-        "imgUrl": "https://rocld.com/ga6qm",
-        "istok": "Instagram"
-        },      
+          
         {
         "id": 1,
         "name": "Собака",        
